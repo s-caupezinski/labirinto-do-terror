@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+    color: aquamarine;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
